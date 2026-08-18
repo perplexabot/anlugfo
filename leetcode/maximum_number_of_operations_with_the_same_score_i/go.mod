@@ -1,0 +1,3 @@
+module maximum_number_of_operations_with_the_same_score_i
+
+go 1.22.4
